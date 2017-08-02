@@ -18,9 +18,9 @@ Just execute `install.sh` as root user: `sudo install.sh`
 
 The script downloads some images from [Irasutoya](http://www.irasutoya.com/2017/08/blog-post_1.html "いろいろな色の火のイラスト") online.
 
-- fire2-blue.png as `images/fire2-blue.png`
-- fire1-red.png as `images/fire1-red.png`
-- fire6-purple.png as `images/fire6-purple.png`
+- fire2_blue.png as `images/fire2-blue.png`
+- fire1_red.png as `images/fire1-red.png`
+- fire6_purple.png as `images/fire6-purple.png`
 
 ## Manual Installation
 1. Download and rename the image files above.
